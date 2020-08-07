@@ -1,4 +1,4 @@
-import React, {Component} from "raect"
+import React, {Component} from "react"
 import {BrowserRouter as Router, Route, Switch} from "react-router-dom"
 
 import {connect} from "react-redux"
